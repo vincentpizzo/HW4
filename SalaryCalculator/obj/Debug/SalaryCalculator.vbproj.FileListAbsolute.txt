@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\bin\SalaryCalculator.dll.config
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\bin\SalaryCalculator.dll
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\bin\SalaryCalculator.pdb
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\bin\SalaryCalculator.xml
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Resources.resources
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.vbproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.dll
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.xml
+C:\Users\Owner\Desktop\HW4\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb

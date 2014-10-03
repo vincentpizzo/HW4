@@ -4,7 +4,7 @@
     Dim hours As Decimal
     Dim pretax As Decimal
     Dim aftertax As Decimal
-    Dim salary As Decimal
+
 
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
@@ -23,10 +23,20 @@
         hours = tb_hours.Text
         pretax = tb_pretax.Text
         aftertax = tb_aftertax.Text
-        salary = lbl_salary.Text
 
+        Dim result As Decimal
+        Dim tax As Decimal
+        result = (wage * hours) - pretax
 
+        If result < 500 Then
+            tax = 0.18
 
+        Else
+            tax = 0.22
+
+        End If
+
+        lbl_salary.Text = result - (result * tax) - aftertax
 
 
     End Sub
