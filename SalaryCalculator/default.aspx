@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
     <div>
     
+        <br />
+    
         Hourly Wage:<br />
         <asp:TextBox ID="tb_wage" runat="server"></asp:TextBox>
         <br />

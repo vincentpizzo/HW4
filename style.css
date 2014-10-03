@@ -1,1 +1,22 @@
 SalaryCalculator CSS style sheet
+
+div { 
+	background: yellow;
+	}
+	
+tb_hours {
+	background: aqua;
+	}
+
+tb_wage {
+	background: pink;
+	}
+	
+tb_pretax {
+	background: pink;
+	}
+
+tb_aftertax {
+	background: aqua;
+	}
+	
